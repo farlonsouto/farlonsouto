@@ -1,4 +1,4 @@
-## Welcome, Bem-vindo, Velkomen!
+## Welcome, Bem-vindo, Velkomen! UK, PT, NO
 
 Quoting.author("Abraham Maslow").in("The Psychology of Science").year(1966).page(15)
     .with("I suppose it is tempting, if the only tool you have is a hammer, to treat everything as a nail.");
